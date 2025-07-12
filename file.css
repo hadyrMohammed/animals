@@ -1,28 +1,14 @@
-
-header{
-    background-color: rgb(9, 108, 75);
+nav{
+     color:darkred;
 }
-body{
-    background-color: rgb(198, 225, 216);
+a:link
+,a:visited{
+    color: rgb(208, 22, 22);
 }
-h1{
-    color: rgb(2, 70, 47);
+a:hover{
+    color: blue;
+    
 }
 h2{
-    color: rgb(30, 103, 103);
-}
-h3{
-    color: rgb(132, 63, 63);
-}
-form{
-    background-color: rgb(118, 158, 145);
-}
-.photo{
-  text-align: center;
-}
-.audio{
-    text-align: center;
-}
-.video{
-    text-align: center;
+    color: rgb(18, 204, 221)
 }
